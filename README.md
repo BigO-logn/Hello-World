@@ -1,3 +1,2 @@
 # Hello-World
-Tejas:      Everything starts from Chess and ends at Chess.
-Alphabhets: -_-'
+Tejas says, "Everything starts from Chess and ends at Chess". Alphabhets, -_-'
